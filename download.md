@@ -1,21 +1,20 @@
 ---
-description: 'GitHub: https://github.com/Captain-Chaos/WorldPainter'
+description: >-
+  WorldPainter is an interactive map generator for Minecraft. It allows you to
+  "paint" landscapes using similar tools as a regular paint program.
 cover: .gitbook/assets/K.png
 coverY: 0
-layout: landing
 ---
 
 # 🔔 Download
 
-WorldPainter is an interactive map generator for [Minecraft](https://www.minecraft.net). It allows you to "paint" landscapes using similar tools as a regular paint program. Sculpt and mould the terrain, paint materials, trees, snow and ice, etc. onto it, and much more.
-
+{% hint style="warning" %}
 WorldPainter is implemented in Java, which you should already have if you're playing Minecraft. If not, install Java first from [here](https://www.java.com).
 
-{% hint style="warning" %}
 **Please note:** WorldPainter requires Java version 8 or later!
 {% endhint %}
 
-Download the program here:
+### PC Download:
 
 | Platform | Version        | Link                                                                         |
 | -------- | -------------- | ---------------------------------------------------------------------------- |
@@ -37,8 +36,6 @@ Download the program here:
 {% content-ref url="change-log.md" %}
 [change-log.md](change-log.md)
 {% endcontent-ref %}
-
-You can check the change log [here](https://www.pepsoft.org/worldpainter/CHANGELOG).
 
 {% hint style="info" %}
 WorldPainter <mark style="color:red;">**does**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**not**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**contain any virus or malware**</mark>! If your virus scanner says it does, it is a false positive. Please report it as such to the makers, and use the "unquarantine" or equivalent function of your virus scanner, or disable it temporarily, to install and run WorldPainter. See [this](https://www.worldpainter.net/trac/wiki/FalsePositives) page for more information. VirusTotal results for these download links can be found [here](https://www.worldpainter.net/files/virustotalreports.html).

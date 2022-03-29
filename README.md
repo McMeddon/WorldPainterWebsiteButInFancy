@@ -6,13 +6,17 @@ coverY: 0
 
 # 🌎 WorldPainter
 
-WorldPainter is an interactive map generator for [Minecraft](https://www.minecraft.net). It allows you to "paint" landscapes using similar tools as a regular paint program. Sculpt and mould the terrain, paint materials, trees, snow and ice, etc. onto it, and much more.
+WorldPainter allows you to "paint" landscapes using similar tools as a regular paint program. Sculpt and mould the terrain, paint materials, trees, snow and ice, etc. onto it, and much more.
 
 WorldPainter is implemented in Java, which you should already have if you're playing Minecraft. If not, install Java first from [here](https://www.java.com).
 
 {% content-ref url="download.md" %}
 [download.md](download.md)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+#### latest Version 2.8.10, released 11-12-2021
+{% endhint %}
 
 ![worldpainter in darkmode](<.gitbook/assets/in programm (1).PNG>)
 
