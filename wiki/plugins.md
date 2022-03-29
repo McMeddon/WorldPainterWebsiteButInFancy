@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Plugins
+# 🔌 Plugins
 
 {% hint style="warning" %}
 This Section might be outdated

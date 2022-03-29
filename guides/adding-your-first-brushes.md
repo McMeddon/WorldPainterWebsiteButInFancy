@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Adding your first brushes
 
 {% hint style="info" %}

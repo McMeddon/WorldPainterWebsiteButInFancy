@@ -1,4 +1,8 @@
-# Caves and Tunnels
+---
+coverY: 0
+---
+
+# 🌄 Caves and Tunnels
 
 ## The Caves/Tunnels Layer
 

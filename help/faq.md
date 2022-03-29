@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/5k Minecraft Map - Itoro - By McMeddon (8).jpg
 coverY: -42.290748898678416
 ---
 
-# FAQ
+# 💬 FAQ
 
 ### I'm having trouble installing WorldPainter. I get an error message while running WorldPainter, or WorldPainter won't start. How do I fix it?
 

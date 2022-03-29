@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Creating Custom Brushes
+# 🖌 Creating Custom Brushes
 
 ## Custom Brushes
 

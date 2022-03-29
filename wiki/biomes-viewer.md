@@ -1,4 +1,8 @@
-# Biomes Viewer
+---
+coverY: 0
+---
+
+# 🏝 Biomes Viewer
 
 ## The Biomes Viewer
 

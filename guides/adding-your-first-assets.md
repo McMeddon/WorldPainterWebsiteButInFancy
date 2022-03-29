@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Adding your first assets
 
 {% hint style="info" %}

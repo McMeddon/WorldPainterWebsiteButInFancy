@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Creating your first world
 
 {% hint style="info" %}

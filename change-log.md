@@ -1,6 +1,5 @@
 ---
 coverY: 0
-layout: editorial
 ---
 
 # ⚠️ Change log

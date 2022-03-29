@@ -3,7 +3,7 @@ description: 'WorldPainter can be controlled in various ways. Here is an overvie
 coverY: 0
 ---
 
-# Controlling WorldPainter (Mouse & Tablet)
+# 🖱 Mouse & Tablet Controls
 
 ### Mouse
 

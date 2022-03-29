@@ -1,4 +1,8 @@
-# Editing Existing Maps
+---
+coverY: 0
+---
+
+# ✏ Editing Existing Maps
 
 ### How do I edit existing Minecraft maps?
 

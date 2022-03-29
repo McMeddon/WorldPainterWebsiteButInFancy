@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Keyboard Shortcuts
+# ⌨ Keyboard Shortcuts
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/KB\_United\_States-NoAltGr.svg/400px-KB\_United\_States-NoAltGr.svg.png)
 
