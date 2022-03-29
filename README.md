@@ -46,26 +46,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [adding-your-first-brushes.md](guides/adding-your-first-brushes.md)
 {% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 WorldPainter is free and open source software. It is licensed under the GNU Public License (GPL) version 3. You are free to use it without paying for it, but it takes a lot of time and effort to create and maintain, so please consider donating a small amount!
 
 WorldPainter was created by [pepsoft.org](https://www.pepsoft.org), a one man Java software development company from the Netherlands. It is not affiliated in any way with Mojang and has no official status. WorldPainter includes the work of many others - the [credits](https://www.worldpainter.net/credits) page lists them.
